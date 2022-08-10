@@ -1,0 +1,6 @@
+# Some redundant file extensions
+*~
+*.swp
+
+# Non public data for git @ cloud
+git.private/

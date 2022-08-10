@@ -1,0 +1,20 @@
+# Some redundant file extensions
+*~
+*.swp
+*.sch-bak
+*.kicad_pcb-bak
+
+# Netlists
+*.net
+
+# BOM
+*.xml
+
+# Footprint aux/cache files
+*-cache.lib
+sym-lib-table
+fp-lib-table
+fp-info-cache
+
+# Backup folder
+voice_id-backups/
