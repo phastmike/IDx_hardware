@@ -29,11 +29,12 @@ for volume control with a simple 1st order RC filter.
 
 ### Pictures
 
-Inside the box
+- Inside the box
+
 ![IDx](./images/img2.jpg "Hardware implementation")
 
+- A more detailed look at the PCB
 
-A more detailed look at the PCB
 ![IDx](./images/img3.jpg "Hardware implementation")
 
 
