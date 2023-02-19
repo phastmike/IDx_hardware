@@ -1,5 +1,7 @@
 # YAESU DR-1X/DR-2X VOICE ID 
 
+![IDx](./images/img1.jpg "Hardware implementation")
+
 This project is a design of a Voice ID board for the YAESU DR-1X and 
 DR-2X repeater models.
 
@@ -25,6 +27,16 @@ The circuit can be powered from usb and from the radio, simultaneaously if neede
 The circuit is simple. A regulator for voltage control, leds and the resistor divider
 for volume control with a simple 1st order RC filter.
 
+### Pictures
+
+Inside the box
+![IDx](./images/img2.jpg "Hardware implementation")
+
+
+A more detailed look at the PCB
+![IDx](./images/img3.jpg "Hardware implementation")
+
+
 ### Schematic
 
 The schematic is adapted to the real implementation in real life, that's why,
@@ -34,7 +46,7 @@ eg, the volume potentiometer appears as a JST/KK/Molex 3 pin conector.
 
 ### Yaesu DR1-X
 
-The Yaesu dr1x has some design flaws in the controller board.
+The Yaesu DR1X has some design flaws in the controller board.
 
 From the technical manual we can see that some transistor were not fitted and
 some resistor values were incorrect, eg, the 0 ohm resitor in the CTCSS zener protector.
