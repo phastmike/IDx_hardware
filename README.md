@@ -45,6 +45,10 @@ eg, the volume potentiometer appears as a JST/KK/Molex 3 pin conector.
 
 **Check the PDFs for the schematic.**
 
+#### Led connections
+
+![IDx](./images/leds.png "Led connections")
+
 ### Yaesu DR1-X
 
 The Yaesu DR1X has some design flaws in the controller board.
