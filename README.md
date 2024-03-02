@@ -14,6 +14,8 @@ pins.
 
 Both can be used but there is no documentation regarding the ACC serial data protocol.
 
+The firmware is available in [this repository](https://github.com/phastmike/IDx)
+
 ## Hardware
 
 This project is based around the Raspberry Pi Pico (RP2040). It uses some digital
